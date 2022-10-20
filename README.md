@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Bigwiz65 
-- 👀 I’m interested in chatbot creation
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m 4wraps
+- 👀 I’m interested in chatbot creation and web development 
+- 🌱 I’m currently learning HTML CSS and JAVASCRIPT 
 - 📫 How to reach me wisdom.kiyichukwu@gmail.com
 
 <!---
